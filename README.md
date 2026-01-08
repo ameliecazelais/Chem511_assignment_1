@@ -1,2 +1,2 @@
-# Chem511_assignment_1
+# Chem 511
 Basic micropython activities
